@@ -1,3 +1,3 @@
-# Map-app-v1
+# Blith-Map-Openstreetmap
 
-A simple example of how to convert Lat & Lon coordinates to pixel offsets for your frontend application
+Web implimentation of Blithchron Map. Using Openstreetmap and Leaflet.js

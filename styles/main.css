@@ -1,3 +1,8 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
 header {
   text-align: center;
 }
@@ -11,9 +16,9 @@ section .map {
   position: relative;
 }
 
-section .map img {
-  max-width: 80vw;
-  width: 1200px;
+section .map{
+  width: 100vw;
+  /* width: 1200px; */
   margin: auto;
   border: 1px solid black;
 }
@@ -24,5 +29,5 @@ section .map img {
   position: absolute;
   border-radius: 100%;
   color: transparent;
-  border: 3px solid red;
+  border: 5px solid red;
 }
